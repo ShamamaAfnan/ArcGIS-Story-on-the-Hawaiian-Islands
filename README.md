@@ -1,2 +1,3 @@
 # ArcGIS-Story-on-the-Hawaiian-Islands
 Link: https://storymaps.arcgis.com/stories/82a706e758564eac859f5804ed61d3e1
+The history and culture of the Hawaiian Islands were presented utilizing the Arcgis Map visualization. In order to intuitively present organized data information and explicitly tell a story about the Hawaiian cultural, I appllied general visualization principles and theories, infographics to showcase a geographical storytelling visualization about Hawaii. I also dedicated in learning about how to create relevant and attracting storytelling presentations using the Arcgis platform, specifically using the map feature where we can pinpoint desired locations and attach relevant add-on information to best illustrate the unique traits of the Hawaii Islands. 
